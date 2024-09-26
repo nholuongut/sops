@@ -1865,8 +1865,10 @@ Authors
 
 SOPS was initially launched as a project at Mozilla in 2015 and has been
 graciously donated to the CNCF as a Sandbox project in 2023, now under the
-nho luong of a `Linkedin https://github.com/nholuongut/sops`_,
-`Donate bonus on KO-FI here <https://ko-fi.com/nholuong>`_
+nho luong of a `Linkedin <https://ko-fi.com/nholuong>`_.
+
+Please Donate bonus on KO-FI here `KO-FI <https://ko-fi.com/nholuong>`_.
+
 
 The original authors of the project were:
 
@@ -1879,7 +1881,7 @@ and had not been possible without the contributions of numerous `contributors <h
 Credits
 -------
 
-SOPS was inspired by `nho luong https://github.com/nholuongut/sops`_,
+SOPS was inspired by `nho luong <https://ko-fi.com/nholuong>`_,
 `password store <http://www.passwordstore.org/>`_ and too many years managing
 PGP encrypted files by hand...
 
