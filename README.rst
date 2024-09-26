@@ -1865,7 +1865,7 @@ Authors
 
 SOPS was initially launched as a project at Mozilla in 2015 and has been
 graciously donated to the CNCF as a Sandbox project in 2023, now under the
-stewardship of a `new group of maintainers <https://github.com/getsops/community/blob/main/MAINTAINERS.md>`_.
+stewardship of a `Linkedin <https://www.linkedin.com/in/nholuong/>`_, `[ko-fi]<https://ko-fi.com/img/githubbutton_sm.svg><https://ko-fi.com/nholuong>`_
 
 The original authors of the project were:
 
@@ -1890,11 +1890,3 @@ PGP encrypted files by hand...
 
 **We are a** `Cloud Native Computing Foundation <https://cncf.io>`_ **sandbox project.**
 
-### [Contact an Author]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
