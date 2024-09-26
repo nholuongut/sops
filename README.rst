@@ -1893,3 +1893,5 @@ PGP encrypted files by hand...
 
 **We are a** `Cloud Native Computing Foundation <https://cncf.io>`_ **sandbox project.**
 
+Please Donate bonus on KO-FI here `KO-FI <https://ko-fi.com/nholuong>`_.
+
