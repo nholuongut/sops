@@ -8,8 +8,7 @@ formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
 ------------
 
-.. image:: https://github.com/nholuongut/sops
-    :target: https://github.com/nholuongut/sops
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 
 Download
 --------
@@ -1893,5 +1892,13 @@ PGP encrypted files by hand...
 
 **We are a** `Cloud Native Computing Foundation <https://cncf.io>`_ **sandbox project.**
 
-Please Donate bonus on KO-FI here `KO-FI <https://ko-fi.com/nholuong>`_.
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
