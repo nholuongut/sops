@@ -4,7 +4,6 @@ SOPS: Secrets OPerationS
 **SOPS** is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY
 formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 (`View all Roadmaps <https://github.com/nholuongut/all-roadmaps>`_)
-(`Best Practices <(https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/>`_)
 (`Questions <https://www.linkedin.com/in/nholuong/>`_)
 
 .. image:: https://i.imgur.com/X0TM5NI.gif
