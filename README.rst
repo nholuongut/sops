@@ -1899,6 +1899,12 @@ PGP encrypted files by hand...
 
 **We are a** `Cloud Native Computing Foundation <https://cncf.io>`_ **sandbox project.**
 
-![](https://i.imgur.com/waxVImv.png)
-![](bitfield.png)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+(`View all Roadmaps <https://github.com/nholuongut/all-roadmaps>`_)
+(`Questions <https://www.linkedin.com/in/nholuong/>`_)
+
+.. image:: https://i.imgur.com/waxVImv.png
+    :target: https://i.imgur.com/waxVImv.png
+.. image:: bitfield.png
+    :target: bitfield.png
+.. image:: https://ko-fi.com/img/githubbutton_sm.svg
+    :target: https://ko-fi.com/nholuong
