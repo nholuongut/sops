@@ -12,7 +12,7 @@ formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
 .. image:: https://i.imgur.com/waxVImv.png
     :target: https://i.imgur.com/waxVImv.png
-.. image:: Nho Luong
+.. image:: bitfield.png
     :target: bitfield.png
 .. image:: https://ko-fi.com/img/githubbutton_sm.svg
     :target: https://ko-fi.com/nholuong
