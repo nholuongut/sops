@@ -7,7 +7,8 @@ formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 .. image:: https://i.imgur.com/X0TM5NI.gif
 
 ------------
-### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+![](https://i.imgur.com/waxVImv.png)
+[![View all Roadmaps]](https://github.com/nholuongut/all-roadmaps)
 
 Download
 --------
@@ -1890,13 +1891,6 @@ PGP encrypted files by hand...
    :alt: CNCF Sandbox Project
 
 **We are a** `Cloud Native Computing Foundation <https://cncf.io>`_ **sandbox project.**
-
-### [Contact ]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
 
 ![](https://i.imgur.com/waxVImv.png)
 ![](bitfield.png)
